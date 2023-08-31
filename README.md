@@ -40,7 +40,7 @@ The .env file is used to store sensitive data like API keys. It is not included 
 		load_dotenv() 
 		# Access the API key from  .env file
 		api_key = os.getenv('YOUTUBE_API_KEY')
-
+	```
 
 
 
